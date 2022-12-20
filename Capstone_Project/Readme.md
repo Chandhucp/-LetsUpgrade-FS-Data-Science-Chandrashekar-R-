@@ -7,7 +7,7 @@ This dataset contains 1252 CT scans that are positive for SARS-CoV-2 infection (
 
 -From the image we can see that covid-19 ct scan has round glass opacities which is not seen in the non- covid patient ct.
 
--These feature can be used to classify the images but with help of convolution neural network (CNN) which are specially designed for feature detection can give better classification results.![Screenshot_20221219_211608](https://user-images.githubusercontent.com/92459017/208464836-4c1b7a45-d6df-4370-a00f-657d630ab176.png)
+-These feature can be used to classify the images but with help of convolution neural network (CNN) which are specially designed for feature detection can give better classification results.
 
 
 ![download](https://user-images.githubusercontent.com/92459017/208454827-e7ecb9f6-3954-4d2e-b4ef-bc83505c580b.png)
